@@ -57,8 +57,6 @@ nav h1{
 }
 
 
-
-
 #home{
     height: 100vh;
     overflow: hidden; /*قص الزيادات*/
@@ -185,7 +183,6 @@ nav h1{
     transform: translateY(-5px) ;
 }
 
-
 /**//**/
 
 #about{
@@ -301,7 +298,6 @@ display: block;
     background-color: transparent;
     border: 1px solid #8B7355;
 }
-
 
 /**//**/
 #footer{
